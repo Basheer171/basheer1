@@ -1,0 +1,429 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+.header{
+    height: 140px;
+    width: 100%;
+}
+.mccc-logo{
+    height:10px;
+    width: 100px;
+    margin-left: 200px;
+    position: absolute;
+    top: 15px;
+    font-size: 15px;
+    border: none;
+    background-color: white;
+}
+.header-inner{
+    height: 60px;
+    width: 965px;
+    margin-left: 342px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-inner1{
+    height: 60px;
+    width: 850px;
+    margin-left: 342px;
+    background-color:rgb(255, 255, 255);
+    margin-top: 20px;
+
+}
+.inner-inner1,.inner-inner2{
+    width: 320px;
+    height: 60px;
+    background-color: #ffffff;
+}
+.inner-inner2{
+    width: 400px;
+}
+.but111,.but222,.but333{
+    height: 45px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.but444,.but555,.but666{
+    height: 45px;
+    width: 90px;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border: none;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.fa-solid{
+    width: 1px;
+    height: 45px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.but555{
+    width: 150px;
+}
+.but444{
+    width: 70px;
+}
+.but666{
+    margin-right: 0px;
+    margin-left: 15px;
+    width: 100px;
+}
+.but222{
+    width: 120px;
+}
+.button111{
+    width: 80px;
+    height: 45px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.button222{
+    width: 110px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.button333{
+    width: 160px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.button444{
+    width: 110px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.button555{
+    width: 120px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.background-box{
+    height: 90px;
+    width: 1540px;
+}
+.margin{
+    height: 6100;
+    width: 185px;
+}
+.marvel{
+    height: 480px;
+    width: 1150px;
+    margin-left: 185px;
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    height: 333px;
+    width: 740px;
+    background-color: orange;
+    border: 1px solid white;
+}
+.two{
+    height: 480px;
+    width: 380px;
+}
+.marvel-1{
+    height: 333px;
+    width: 748px;
+}
+h2{
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 35px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.para{
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+}
+.para-1{
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 10px;
+    line-height: 1.45;
+}
+.button{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    position: absolute;
+    right: 371px;
+    top: 660px;
+    font-size: 15px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.row{
+    width: 1540px;
+    height: 127px;
+}
+.qpc{
+    height: 480px;
+    width: 1150px;
+    margin-left: 185px;
+    display: flex;
+    justify-content: space-between;
+}
+.button1{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    position: absolute;
+    right: 396px;
+    top: 1267px;
+    font-size: 15px;
+}
+.button1:hover{
+    cursor: pointer;
+}
+.row1{
+    width: 1540px;
+    height: 127px;
+}
+.qpc-1{
+    height: 333px;
+    width: 748px;
+}
+.app{
+    height: 372px;
+    width: 1150px;
+    margin-left: 185px;
+    display: flex;
+    justify-content: space-between;
+}
+.button2{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+    position: absolute;
+    right: 346px;
+    top: 1738px;
+    cursor: pointer;
+}
+
+.two1{
+    height: 372px;
+    width: 380px;
+}
+.paragraph{
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 16.4px;
+}
+.button3{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+    position: absolute;
+    right: 320px;
+    top: 2264px;
+    cursor: pointer;
+}
+.paragraph1{
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15.6px;
+}
+.button4{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+    position: absolute;
+    top: 2735px;
+    cursor: pointer;
+}
+.row2{
+    width: 1540px;
+    height: 113px;
+}
+.button5{
+    background-color: #ffbc0d;;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    border: none;
+    border-radius: 5px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+    position: absolute;
+    top: 3200px;
+    cursor: pointer;
+}
+.one1{
+    height: 333px;
+    width: 500px;
+    border: 1px solid white;
+}
+.two2{
+    height: 372px;
+    width: 670px;
+}
+.heading{
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 56px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+}
+.button6{
+    background-color: white;
+    height: 35px;
+    width: 110px;
+    border: none;
+    border-radius: 4px ;
+}
+.button7{
+    background-color: white;
+    height: 35px;
+    width: 110px;
+    border: none;
+    border-radius: 4px ;
+    margin-left: 20px;
+}
+.apple-store{
+    height: 30px;
+    width: 115px;
+}
+.google-playstore{
+    height: 30px;
+    width: 115px;
+}
+.Disclimer{
+    height: 270px;
+    width: 1150px;
+    margin-left: 185px;
+}
+.disclimerh2{
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-size: 36px;
+    font-weight: 700px;
+}
+.list{
+    height: 413px;
+    margin-left: 215px;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+.li{
+    font-family: Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    height:413px;
+    width: 190px;
+    border: 1px solid white;
+    
+}
+.About{
+    margin-top: 0px;
+    font-size: 18.72px;
+    font-weight: 700px;
+}
+.box{
+    height: 100px;
+    width: 300px;
+    margin-left: 215px;
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.boxxx{
+    height: 100px;
+    width: 320px;
+    margin-left: 1011px;
+    margin-top: -104px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.box1{
+    height: 30px;
+    width: 35px;
+    border: none;
+}
+.box2{
+    height: 37px;
+    width: 143px;
+    border-radius: 4px;
+}
+.hr-line{
+    width: 1165px;
+    background-color: orange;
+    margin:200px ;
+    margin-top: 55px;
+}
+.para-inline{
+    margin-left: 215px;
+    height: 85px;
+    width: 635px;
+    margin-top: -140px;
+    
+    
+}
+.p11{
+    display: inline-block;
+    margin-left: 25px;
+    font-family:Speedee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif ;
+    font-size: 15px;
+}
+.para-inline1{
+    margin-left: 1080px;
+    height: 85px;
+    width: 345px;
+    margin-top: -85px;
+}
+.para-box{
+    height: 35px;
+    width: 35px;
+    background-color: azure;
+    margin-left: 985px;
+    margin-top: -85px;
+}
+.mccphoto1{
+    height: 35px;
+    width: 35px;
+}
